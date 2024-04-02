@@ -59,6 +59,6 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - Color_C66DE798: {r: 7.496593, g: 4.199662, b: 1.0597278, a: 0}
+    - Color_C66DE798: {r: 3.2111173, g: 0.45392752, b: 2.677781, a: 0}
     - Vector2_ED508732: {r: 0.2, g: 0.9, b: 0, a: 0}
   m_BuildTextureStacks: []
